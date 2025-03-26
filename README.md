@@ -10,7 +10,11 @@ First, install anaconda and create a virtual environment, the name is cvhw1 for 
 ```
 conda create -n cvhw1 python=3.9 -y
 ```
-Second, install the dependencies in requirements.txt.
+Second, activate the virtual environment
+```
+conda activate cvhw1
+```
+Third, install the dependencies in requirements.txt.
 ```
 pip install -r requirements.txt
 ```

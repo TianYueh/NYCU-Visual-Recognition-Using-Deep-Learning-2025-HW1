@@ -16,3 +16,4 @@ pip install -r requirements.txt
 ```
 ## Performance Snapshot
 Final Accuracy 0.92, not very good...
+![image](https://github.com/TianYueh/NYCU-Visual-Recognition-Using-Deep-Learning-2025-HW1/blob/main/leaderboard.png)

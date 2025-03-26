@@ -2,9 +2,9 @@
 Student ID: 110550085  
 Name: 房天越
 ## Introduction
-This is the first Homework of NYCU Visual Recognition using Deep Learning.
-In this project, we need to use ResNetXX to train the model for Image Classification for 100 classes.
-In my project, I used ResNeXt50, and I applied data augmentation to yield better results.
+This is the first Homework of NYCU Visual Recognition using Deep Learning.  
+In this project, we need to use ResNetXX to train the model for Image Classification for 100 classes.  
+In my project, I used ResNeXt50, and I applied data augmentation to yield better results.  
 ## How to install
 First, install anaconda and create a virtual environment, the name is cvhw1 for example.
 ```

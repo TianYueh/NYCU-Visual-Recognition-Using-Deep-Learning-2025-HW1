@@ -1,5 +1,5 @@
 # NYCU Computer Vision 2025 Spring HW1
-Student ID: 110550085
+Student ID: 110550085。
 Name: 房天越
 ## Introduction
 This is the first Homework of NYCU Visual Recognition using Deep Learning.
